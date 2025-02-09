@@ -9,7 +9,7 @@
 #  any misuse of this material.
 
 #  @file    Makefile
-#  @brief   This script is used to automate the distclean step
+#  @brief   This script is used to automate the distclean step for the buildroot directory.
 
 #  @author  Abhirath Koushik
 #  @date    02-09-2025
