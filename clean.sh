@@ -14,5 +14,4 @@
 #  @author  Abhirath Koushik
 #  @date    02-09-2025
 
-
 cd buildroot && make distclean
